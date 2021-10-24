@@ -98,5 +98,5 @@ $ git stash drop
 * git branch -M main
 * git remote add origin https://github.com/ZauYana/DocForWrittingHW3.git
 * git push -u origin main  )
-Вставляем в терминал (я тоже это сделала и о чудо!)
+Вставляем в терминал (я тоже это сделала и о чудо!) и забыла добавить - на сайте GitHub надо обновить страницу и отобразится тот файл, который вы привязали из VSCode. 
 
